@@ -21,6 +21,7 @@ public class Main{
                 res = a - b;
                 break;
             case "Multiplication":
+            //Multiplication
                 res = a*b;
                 break;
             case "Division":

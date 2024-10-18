@@ -12,6 +12,7 @@ public class Main{
         String op = reader.nextLine();
         int res = 0;
         switch(op){
+            //Addition
             case "Addition":
                 res = a+b;
                 break;

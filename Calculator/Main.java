@@ -16,6 +16,7 @@ public class Main{
             case "Addition":
                 res = a+b;
                 break;
+            //Subtraction
             case "Subtraction":
                 res = a - b;
                 break;

@@ -30,6 +30,7 @@ public class Main{
                 res = a / b;
                 break;
         }
+        //result
         System.out.println("The result is "+res);
         reader.close();
     }
